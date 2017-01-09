@@ -1,4 +1,4 @@
-# Lego Bricks for the DPU
+# Emma Urquhart's Lego Bricks for the DPU
 The project contains all Lego AGILE Components created for the ATOS Digital Prototyping Unit.
 These bricks were created with the intention of steramlining Agile Testing within the DPU.
 
