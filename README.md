@@ -4,7 +4,7 @@ These bricks were created with the intention of steramlining Agile Testing withi
 
 ## TestPlanTemplate_Blank.docm 
 
-The blank template file. This is an Agile Test Plan designed to fit the Agile core tenants of being quick to write, quick to read, and informative with no excess data. It's 5 simle, straightforward pages and is designed to be **written in fifteen minutes and read in five**.
+The blank template file. This is an Agile Test Plan designed to fit the Agile core tenants of being quick to write, quick to read, and informative with no excess data. It's 5 simple, straightforward pages and is designed to be **written in fifteen minutes and read in five**.
 
 ## TestPlanTemplate_704Example.docm  
 
