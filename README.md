@@ -20,8 +20,7 @@ But for projects that specifically request test scripts, as some of mine have, I
 * Checklists (Trello Friendly!)
 * Off-the-cuff documents written during exploratory testing
 * Formal test scripts
-* Screenshot lists using Windows Problem Steps Recorder -- Credit to Simon Birch
-* Recorded Sessions using Open Broadcast Studio (OBS) -- Credit to Simon Birch
+* Screenshot lists using Windows Problem Steps Recorder -- Credit to Simon Bir
 
 For this Lego brick, I'm focussing on the idea of formal test scripts that can be shared with clients and team members. 
 I'm trying to find something that is relatively quick, reasonably professional, and above all else: SIMPLE. 
