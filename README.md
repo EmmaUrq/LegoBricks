@@ -11,6 +11,14 @@ The blank template file. This is an Agile Test Plan designed to fit the Agile co
 
 An example test plan showing how the file looks when filled out. Project 704 was used as an example.
 
+## TesterExecutionLog.xlsx
+
+The newest template! It's a slimmed-down execution log with DPU stylings applied. Certain non-relevant details have been stripped out but can be re-added at will, and dynamic formatting applies to indicate PASS/FAIL/NOT RUN and count accordingly.
+
+As will all these files, it's designed to capture only what is necessary.
+
+I would welcome any feedback on how best to smoothly link test scenarios to their relevant Trello user stories.
+
 ## TestScriptTemplate.doc  [Not Yet Uploaded]
 
 This template for test scripts/test cases is a bit of a conundrum, because there's a conflict at it's core: **test scripts aren't agile**. It's unnecessary documetnation that slows down the testing process, and in a fast-paced Agiel environment that's a risk.
